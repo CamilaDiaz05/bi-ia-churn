@@ -1,0 +1,6 @@
+RESUMEN EJECUTIVO DE ANALÍTICA PREDICTIVA
+- Precisión del modelo en prueba: 70.0%
+- Total de clientes analizados: 2000
+- Clientes en riesgo ALTO (>=70%): 183 (9.2%)
+- Ingreso mensual estimado en riesgo (total ponderado): $37,399.18
+- Plan más expuesto en riesgo alto: Basic
