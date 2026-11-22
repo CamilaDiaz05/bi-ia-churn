@@ -41,7 +41,7 @@ Este proyecto resuelve la priorización comercial calculando el **Ingreso Mensua
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/bi-ia-churn.git
+   git clone https://github.com/CamilaDiaz05/bi-ia-churn.git
    cd bi-ia-churn
    ```
 
